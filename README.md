@@ -1,4 +1,4 @@
-# my study notes
+# note
 ```
 .
 ├── 0416
@@ -68,5 +68,12 @@
 │   └── 5-21.md
 ├── 0526
 │   └── 5-26.md
+├── 0611
+│   ├── 6-11.md
+│   ├── EP05.cpp
+│   ├── e1-6-11.cpp
+│   └── e2-6-11.cpp
 └── README.md
+
+19 directories, 54 files
 ```
