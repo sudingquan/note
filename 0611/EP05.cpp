@@ -7,7 +7,11 @@
 
 #include <iostream>
 #include <cstdio>
-// cstdlib algorithm vector map cmath
+#include <cstdlib>
+#include <algorithm>
+#include <vector>
+#include <map>
+#include <cmath>
 using namespace std;
 
 long long gcd(long long a, long long b) {
