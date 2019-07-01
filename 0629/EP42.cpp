@@ -45,7 +45,5 @@ int main() {
         if(is_valid(str[i])) sum++;
     }
     printf("%d\n", sum);
-    
-    
     return 0;
 }
