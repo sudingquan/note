@@ -134,7 +134,9 @@
 │   └── priority_queue.cpp
 ├── 0816_string
 │   └── string.cpp
+├── 0819_trie
+│   └── trie.cpp
 └── README.md
 
-30 directories, 104 files
+31 directories, 105 files
 ```
