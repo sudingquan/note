@@ -135,10 +135,13 @@
 ├── 0816_string
 │   └── string.cpp
 ├── 0819_trie
+│   ├── double_array_trie.cpp
+│   ├── input
+│   ├── test.cpp
 │   └── trie.cpp
 ├── 0820_stable_sort
 │   └── stable_sort.cpp
 └── README.md
 
-32 directories, 106 files
+32 directories, 109 files
 ```
