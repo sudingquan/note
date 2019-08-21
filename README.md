@@ -136,7 +136,9 @@
 │   └── string.cpp
 ├── 0819_trie
 │   └── trie.cpp
+├── 0820_stable_sort
+│   └── stable_sort.cpp
 └── README.md
 
-31 directories, 105 files
+32 directories, 106 files
 ```
