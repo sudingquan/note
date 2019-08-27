@@ -141,7 +141,11 @@
 │   └── trie.cpp
 ├── 0820_stable_sort
 │   └── stable_sort.cpp
+├── 0826_hash_table
+│   └── hash_table.cpp
+├── 0827_unstable_sort
+│   └── unstable_sort.cpp
 └── README.md
 
-32 directories, 109 files
+34 directories, 111 files
 ```
