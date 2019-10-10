@@ -158,7 +158,9 @@
 ├── 1008
 │   ├── 1.270.cpp
 │   └── 2.256.cpp
+├── 1010_class
+│   └── 1.class.cpp
 └── README.md
 
-39 directories, 119 files
+40 directories, 120 files
 ```
