@@ -168,7 +168,11 @@
 │   ├── operator.cpp
 │   ├── return_value.cpp
 │   └── succeed.cpp
+├── 1026_virtual
+│   ├── 1.cpp
+│   ├── hash_map.cpp
+│   └── virtual.cpp
 └── README.md
 
-42 directories, 126 files
+43 directories, 129 files
 ```
